@@ -1,4 +1,4 @@
-# hw1
+## Software setup
 
 We strongly suggest using conda (or miniconda) for package management. We wrote this assignment using a conda environment with python 3.7, but using a later version should work too.
 
@@ -10,3 +10,5 @@ conda activate cmu16824hw1
 pip install -r requirements.txt
 pip install opencv-python
 ```
+
+## Report: The results and discussions are in Report.pdf

@@ -9,3 +9,5 @@ chmod +x setup.sh
 
 # e.g. ./setup.sh ~/miniconda3/envs/vlr_hw2/lib/python3.8/site-packages
 ```
+
+## Report: The results and discussions are in Report.pdf
